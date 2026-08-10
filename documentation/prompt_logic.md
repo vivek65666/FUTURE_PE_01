@@ -21,32 +21,25 @@ business-specific, persuasive, and ready to publish on a website.
 
 ### Business Name
 
-UrbanGlow Salon
+Salon Nayana
 
 ### Business Type
 
-Unisex Salon
+Hair and Beauty Salon
 
 ### Location
 
-Bangalore, Karnataka
+Brigade Road, Bengaluru, Karnataka
 
-### Target Audience
-
-- Young professionals
-- Students
-- Families
-- Local residents
-
-### Services
+### Services Used
 
 - Haircuts
-- Hair Styling
-- Hair Coloring
-- Facial
-- Manicure & Pedicure
-- Bridal Packages
-
+- Hair Colour
+- Curls & Texture
+- Beauty Services
+- Keratin
+- Straightening
+- Hair Botox
 ---
 
 ## 3. Problem Statement
@@ -360,3 +353,22 @@ A structured prompt provides:
 - Quality requirements
 
 This helps produce more relevant and usable website content.
+
+---
+
+## 13. Source and Accuracy Approach
+
+This project uses publicly available information from the
+official Salon Nayana website as the business reference.
+
+The prompt system is designed to avoid unsupported claims.
+Information such as prices, discounts, staff qualifications,
+guarantees, and treatment outcomes is not invented when it is
+not available in the provided business information.
+
+The prompts also instruct the AI to avoid introducing services
+that are not included in the business context.
+
+### Official Website
+
+https://www.salonnayana.in/
