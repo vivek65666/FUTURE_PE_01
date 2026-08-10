@@ -1,13 +1,9 @@
-# UrbanGlow Salon – Services Page Copy
+# Salon Nayana – Services Page Copy
 
 ## Our Services
 
-At UrbanGlow Salon, we offer a range of professional hair and
-beauty services designed around your personal style, grooming
-needs, and special occasions.
-
-Explore our services and choose the experience that's right
-for you.
+Explore hair and beauty services at Salon Nayana, designed
+around individual preferences and needs.
 
 ---
 
@@ -15,183 +11,116 @@ for you.
 
 ### Description
 
-Refresh your look with a professionally styled haircut tailored
-to your preferred style and everyday needs.
-
-### What's Included
-
-- Style consultation
-- Haircut
-- Basic finishing and styling
+Thoughtful haircuts, blow-dries, and styling designed around
+your preferred look.
 
 ### Customer Benefit
 
-Get a clean, refreshed look that suits your personal style and
+Start with a conversation and choose a haircut or styling
+approach that fits your hair and personal preferences.
+
+### Call to Action
+
+**Explore Haircuts**
+
+---
+
+## 2. Hair Colour
+
+### Description
+
+Explore hair colour options including balayage, global colour,
+and full highlights.
+
+### Customer Benefit
+
+Discuss your preferred colour direction and explore an option
+suited to your desired look.
+
+### Call to Action
+
+**Explore Hair Colour**
+
+---
+
+## 3. Curls & Texture
+
+### Description
+
+Explore curl cuts, texture care, and services designed for
+customers with different curl and texture needs.
+
+### Customer Benefit
+
+Get guidance focused on your natural hair texture and styling
 preferences.
 
 ### Call to Action
 
-**Book a Haircut**
+**Explore Curls & Texture**
 
 ---
 
-## 2. Hair Styling
+## 4. Beauty Services
 
 ### Description
 
-Whether you're getting ready for an event or simply want a
-fresh new look, our hair styling service helps you achieve a
-polished finish.
-
-### What's Included
-
-- Style consultation
-- Hair preparation
-- Professional styling
-- Finishing touches
+Explore beauty services including facials, waxing,
+manicures, and pedicures.
 
 ### Customer Benefit
 
-Enjoy a hairstyle that complements your look and the occasion.
+Choose beauty care based on your individual needs and
+preferences.
 
 ### Call to Action
 
-**Explore Hair Styling**
+**Explore Beauty Services**
 
 ---
 
-## 3. Hair Coloring
+## 5. Keratin, Straightening & Hair Botox
 
 ### Description
 
-Give your hair a fresh look with a personalized coloring service
-based on your preferred style.
-
-### What's Included
-
-- Color consultation
-- Hair preparation
-- Coloring service
-- Finishing and styling
+Explore smoothing and hair treatment options designed to help
+customers understand different approaches to managing their
+hair.
 
 ### Customer Benefit
 
-Refresh your appearance with a hair color that matches your
-style and preferences.
+Compare treatment options and choose an approach based on
+your desired finish and hair needs.
 
 ### Call to Action
 
-**Ask About Hair Coloring**
+**Explore Hair Treatments**
 
 ---
 
-## 4. Facial
+## Consultation
 
 ### Description
 
-Take a break from your busy schedule with a relaxing facial
-experience designed to complement your personal skincare routine.
-
-### What's Included
-
-- Facial preparation
-- Cleansing
-- Facial treatment
-- Finishing care
+Start with a conversation about your hair or beauty needs
+before deciding on a service.
 
 ### Customer Benefit
 
-Enjoy dedicated time for personal care in a comfortable salon
-environment.
+A consultation can help you understand your available options
+before choosing a service.
 
 ### Call to Action
 
-**Book a Facial**
+**Book a Consultation**
 
 ---
 
-## 5. Manicure & Pedicure
+## Ready to Explore?
 
-### Description
-
-Give your hands and feet some well-deserved attention with our
-manicure and pedicure services.
-
-### What's Included
-
-- Basic preparation
-- Nail care
-- Manicure or pedicure treatment
-- Finishing care
-
-### Customer Benefit
-
-Keep your hands and feet looking neat, refreshed, and
-well-maintained.
-
-### Call to Action
-
-**Book Your Appointment**
-
----
-
-## 6. Bridal Packages
-
-### Description
-
-Prepare for your special day with beauty services designed
-around your bridal requirements.
-
-### What's Included
-
-- Bridal consultation
-- Beauty service planning
-- Selected hair and beauty services
-- Event-focused styling
-
-### Customer Benefit
-
-Plan your bridal beauty experience with a service approach
-tailored to your special occasion.
-
-### Call to Action
-
-**Enquire About Bridal Services**
-
----
-
-## Why Choose UrbanGlow Salon?
-
-### Personalized Approach
-
-We focus on understanding your preferences before recommending
-services.
-
-### Range of Services
-
-From haircuts and styling to beauty and bridal services, you can
-find multiple grooming options in one place.
-
-### Comfortable Environment
-
-Enjoy your salon experience in a welcoming and relaxed setting.
-
-### Local Convenience
-
-Conveniently serving customers in Bangalore, UrbanGlow Salon is
-a local option for regular grooming and special occasions.
-
----
-
-## Ready to Book?
-
-Find the service that suits you and take the next step toward
-your next look.
-
-**Book your appointment today.**
-
-### CTA
+Find the service that fits your needs and start with a
+conversation about your preferred look.
 
 **Book an Appointment**
 
-**Contact Us**
+**Explore Services**
