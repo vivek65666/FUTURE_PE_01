@@ -12,29 +12,26 @@ business websites and conversion-focused service pages.
 
 ## Business Information
 
-Business Name: UrbanGlow Salon
+Business Name: Salon Nayana
 
-Business Type: Unisex Salon
+Business Type: Hair and Beauty Salon
 
-Location: Bangalore, Karnataka
+Location: Brigade Road, Bengaluru, Karnataka
 
-## Target Audience
-
-- Young professionals
-- Students
-- Families
-- Local residents
+Official Website:
+https://www.salonnayana.in/
 
 ## Services
 
-- Haircuts
-- Hair Styling
-- Hair Coloring
-- Facial
-- Manicure & Pedicure
-- Bridal Packages
+Generate content based only on the following services:
 
-## Requirements
+- Haircuts
+- Hair Colour
+- Curls & Texture
+- Beauty Services
+- Keratin
+- Straightening
+- Hair Botox
 
 For each service, generate:
 
@@ -98,7 +95,19 @@ Explain the value to the customer.
 **CTA:**  
 Provide a short action-oriented call-to-action.
 
-## Final Requirement
 
-The generated content should be ready to publish on
-a professional local business website.
+## Accuracy Requirement
+
+Do not invent:
+
+- Prices
+- Discounts
+- Opening hours
+- Staff qualifications
+- Certifications
+- Guarantees
+- Exact treatment results
+- Services not listed in the provided business information
+
+If specific information is not provided, use neutral
+website copy rather than creating unsupported claims.
