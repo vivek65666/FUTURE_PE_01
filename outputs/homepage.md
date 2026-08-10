@@ -8,9 +8,8 @@ Bangalore Hair, Done With Care.
 
 ### Subheadline
 
-Thoughtful hair, colour, texture, and beauty services in the
-heart of Bangalore, with a focus on clear consultations and
-personalized care.
+Explore hair, colour, texture, and beauty services in Bengaluru,
+with options designed around your individual needs and preferences.
 
 ### Primary CTA
 
@@ -25,39 +24,36 @@ personalized care.
 ## About Salon Nayana
 
 Salon Nayana is a hair and beauty salon on Brigade Road,
-Bengaluru, offering a range of services designed around
-individual hair and beauty needs.
+Bengaluru, offering a range of hair and beauty services.
 
-From haircuts and colour to curls, texture care, beauty
-services, and smoothing treatments, customers can explore
-different options based on their preferences.
-
-The experience begins with a conversation, helping customers
-understand their options before choosing a service.
+From haircuts and colour to curls, texture care, beauty services,
+and hair treatments, customers can explore different options
+based on their preferences and needs.
 
 ---
 
 ## Why Choose Salon Nayana?
 
-### Honest Consultation
+### Personalized Service
 
-Start with a conversation about your hair or beauty needs
-before choosing a service.
+Explore hair and beauty services based on your individual
+preferences and requirements.
 
 ### Hair & Beauty Services
 
-Explore haircuts, colour, curls and texture services, beauty
-care, and smoothing treatments.
+Choose from haircuts, colour, curls and texture services,
+beauty care, and hair treatment options.
 
-### Care for Different Hair Needs
+### Options for Different Hair Needs
 
-The salon's service offering includes options for curls,
-texture, colour, and different hair treatments.
+Explore services covering different hair types, textures,
+styling preferences, and treatment needs.
 
 ### Convenient Bangalore Location
 
-Salon Nayana is located on Brigade Road near Catholic Club,
-making it a central option for customers in Bangalore.
+Salon Nayana is located on Brigade Road in Bengaluru, providing
+a central location for customers looking for hair and beauty
+services.
 
 ---
 
@@ -65,26 +61,26 @@ making it a central option for customers in Bangalore.
 
 ### Haircuts
 
-Explore thoughtful cuts, blow-dries, and styling designed
-around your preferences.
+Explore haircuts, blow-dries, and styling options designed
+around your preferred look.
 
 **CTA:** Explore Haircuts
 
 ### Hair Colour
 
-Discover colour options including balayage, global colour,
+Explore colour options including balayage, global colour,
 and full highlights.
 
 **CTA:** Explore Hair Colour
 
 ### Curls & Texture
 
-Explore services focused on curls, texture, and natural-looking
-results.
+Explore services focused on curls, texture, and hair styling
+needs.
 
 **CTA:** Explore Curls & Texture
 
-### Beauty
+### Beauty Services
 
 Explore beauty services including facials, waxing,
 manicures, and pedicures.
@@ -93,8 +89,8 @@ manicures, and pedicures.
 
 ### Keratin, Straightening & Hair Botox
 
-Explore smoothing and hair treatment options and understand
-which approach may suit your hair needs.
+Explore smoothing and hair treatment options based on your
+hair needs and preferred look.
 
 **CTA:** Explore Hair Treatments
 
@@ -102,10 +98,10 @@ which approach may suit your hair needs.
 
 ## Final CTA
 
-### Your Hair Deserves a Thoughtful Approach
+### Ready to Explore Your Next Look?
 
-Start with a conversation, explore your options, and choose
-the service that fits your hair and beauty needs.
+Explore the available hair and beauty services and choose
+the option that best fits your needs.
 
 ### Primary CTA
 
@@ -119,11 +115,11 @@ the service that fits your hair and beauty needs.
 
 ## SEO Focus
 
-Primary Location:
+### Primary Location
 
 Bangalore / Bengaluru
 
-Relevant search terms:
+### Relevant Search Terms
 
 - salon in Bangalore
 - hair salon in Bangalore
