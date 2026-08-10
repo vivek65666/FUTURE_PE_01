@@ -1,141 +1,134 @@
-# UrbanGlow Salon – Homepage Copy
+# Salon Nayana – Homepage Copy
 
 ## Hero Section
 
 ### Headline
 
-Look Your Best. Feel Your Best.
+Bangalore Hair, Done With Care.
 
 ### Subheadline
 
-Modern hair and beauty services in Bangalore, thoughtfully
-designed to help you look confident and feel refreshed.
+Thoughtful hair, colour, texture, and beauty services in the
+heart of Bangalore, with a focus on clear consultations and
+personalized care.
 
 ### Primary CTA
 
-**Book Your Appointment**
+**Book an Appointment**
 
 ### Secondary CTA
 
-**Explore Our Services**
+**Explore Services**
 
 ---
 
-## About UrbanGlow Salon
+## About Salon Nayana
 
-At UrbanGlow Salon, we bring professional hair and beauty
-services together in a welcoming and comfortable environment.
+Salon Nayana is a hair and beauty salon on Brigade Road,
+Bengaluru, offering a range of services designed around
+individual hair and beauty needs.
 
-From everyday haircuts and styling to hair coloring, facials,
-manicures, pedicures, and bridal services, our goal is to make
-every visit simple, enjoyable, and tailored to your needs.
+From haircuts and colour to curls, texture care, beauty
+services, and smoothing treatments, customers can explore
+different options based on their preferences.
 
-Whether you're preparing for a special occasion or simply
-taking some time for yourself, our team is here to help you
-leave feeling refreshed and confident.
-
----
-
-## Why Choose UrbanGlow Salon?
-
-### Personalized Service
-
-We focus on understanding your preferences and providing
-services suited to your individual needs.
-
-### Modern Beauty Services
-
-Enjoy a range of hair and beauty services designed for
-everyday grooming, special occasions, and personal care.
-
-### Comfortable Experience
-
-Relax in a welcoming salon environment while taking time
-for yourself.
-
-### Convenient Local Salon
-
-Located in Bangalore, UrbanGlow Salon provides convenient
-access to professional hair and beauty services for local
-customers.
+The experience begins with a conversation, helping customers
+understand their options before choosing a service.
 
 ---
 
-## Our Services
+## Why Choose Salon Nayana?
+
+### Honest Consultation
+
+Start with a conversation about your hair or beauty needs
+before choosing a service.
+
+### Hair & Beauty Services
+
+Explore haircuts, colour, curls and texture services, beauty
+care, and smoothing treatments.
+
+### Care for Different Hair Needs
+
+The salon's service offering includes options for curls,
+texture, colour, and different hair treatments.
+
+### Convenient Bangalore Location
+
+Salon Nayana is located on Brigade Road near Catholic Club,
+making it a central option for customers in Bangalore.
+
+---
+
+## Explore Our Services
 
 ### Haircuts
 
-Refresh your look with a haircut suited to your style and
-preferences.
+Explore thoughtful cuts, blow-dries, and styling designed
+around your preferences.
 
-**CTA:** Book a Haircut
+**CTA:** Explore Haircuts
 
-### Hair Styling
+### Hair Colour
 
-Get a polished hairstyle for everyday occasions or special
-events.
+Discover colour options including balayage, global colour,
+and full highlights.
 
-**CTA:** Explore Hair Styling
+**CTA:** Explore Hair Colour
 
-### Hair Coloring
+### Curls & Texture
 
-Refresh or transform your look with a personalized hair
-coloring service.
+Explore services focused on curls, texture, and natural-looking
+results.
 
-**CTA:** Ask About Hair Coloring
+**CTA:** Explore Curls & Texture
 
-### Facial
+### Beauty
 
-Take time for your skincare routine with a relaxing facial
-experience.
+Explore beauty services including facials, waxing,
+manicures, and pedicures.
 
-**CTA:** Book a Facial
+**CTA:** Explore Beauty Services
 
-### Manicure & Pedicure
+### Keratin, Straightening & Hair Botox
 
-Give your hands and feet some well-deserved care with our
-manicure and pedicure services.
+Explore smoothing and hair treatment options and understand
+which approach may suit your hair needs.
 
-**CTA:** Book Your Appointment
-
-### Bridal Packages
-
-Prepare for your special day with beauty services designed
-for bridal needs.
-
-**CTA:** Enquire About Bridal Services
+**CTA:** Explore Hair Treatments
 
 ---
 
 ## Final CTA
 
-### Ready for Your Next Look?
+### Your Hair Deserves a Thoughtful Approach
 
-Whether you need a quick refresh, a new hairstyle, or beauty
-services for a special occasion, UrbanGlow Salon is ready
-to welcome you.
+Start with a conversation, explore your options, and choose
+the service that fits your hair and beauty needs.
 
-**Book your appointment and take the next step toward a look
-you'll feel confident in.**
+### Primary CTA
 
-### Call to Action
+**Book an Appointment**
 
-**Book Your Appointment**
+### Secondary CTA
 
-**Contact Us**
+**Explore Services**
 
 ---
 
 ## SEO Focus
 
-Primary location:
+Primary Location:
 
-Bangalore, Karnataka
+Bangalore / Bengaluru
 
 Relevant search terms:
 
 - salon in Bangalore
-- hair salon
-- hair styling
-- beauty services
-- bridal salon
+- hair salon in Bangalore
+- hair colour Bangalore
+- hair styling Bangalore
+- beauty services Bangalore
+- curls and texture salon
+- hair treatments Bangalore
