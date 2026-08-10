@@ -3,6 +3,7 @@
 ## Future Interns – Prompt Engineering Internship
 
 ### Task
+
 AI Website Copy Generator for Local Businesses
 
 ### Objective
@@ -20,20 +21,23 @@ The system generates:
 
 ## Business
 
-**Business Name:** UrbanGlow Salon
+**Business Name:** Salon Nayana
 
-**Business Type:** Unisex Salon
+**Business Type:** Hair & Beauty Salon
 
-**Location:** Bangalore, Karnataka
+**Location:** Brigade Road, Bengaluru, Karnataka
+
+**Business Website:** https://www.salonnayana.in/
 
 ## Problem
 
-Many local businesses struggle with unclear website messaging,
+Local businesses can struggle with unclear website messaging,
 weak value propositions, generic service descriptions, and
 ineffective calls-to-action.
 
 This project uses structured prompt engineering to create
-clear, persuasive, and website-ready content.
+clear, persuasive, and website-ready content for a real local
+business case study.
 
 ## Tools Used
 
@@ -49,39 +53,5 @@ clear, persuasive, and website-ready content.
 - CTA sections
 - Tone adaptation
 - Prompt documentation
+- Prompt iteration documentation
 - Generated outputs
-
-## Prompt Engineering Approach
-
-The prompts are designed using:
-
-1. Role definition
-2. Business context
-3. Target audience
-4. Business services
-5. Content requirements
-6. Tone instructions
-7. SEO considerations
-8. Output formatting requirements
-
-## Repository Structure
-
-```text
-FUTURE_PE_01/
-│
-├── README.md
-│
-├── prompts/
-│   ├── business_analysis.md
-│   ├── homepage_prompt.md
-│   ├── services_prompt.md
-│   ├── cta_prompt.md
-│   └── tone_adaptation_prompt.md
-│
-├── outputs/
-│   ├── homepage.md
-│   ├── services.md
-│   └── cta.md
-│
-└── documentation/
-    └── prompt_logic.md
