@@ -1,152 +1,122 @@
-# UrbanGlow Salon – CTA Content
+# Salon Nayana – CTA Content
 
-## 1. Booking Appointment CTA
+## 1. Main Booking CTA
 
 ### Headline
 
-Ready for Your Next Look?
+Ready to Explore Your Next Look?
 
 ### Supporting Copy
 
-Choose your service and book an appointment at UrbanGlow Salon
-for your next hair or beauty experience.
+Start with a conversation about your hair or beauty needs and
+explore the services that suit you.
 
 ### Button
 
-**Book Your Appointment**
+**Book an Appointment**
 
 ---
 
-## 2. Contact CTA
+## 2. Hair Services CTA
 
 ### Headline
 
-Have a Question About Our Services?
+Looking for a Hair Refresh?
 
 ### Supporting Copy
 
-Get in touch with UrbanGlow Salon to learn more about our
-services and find the right option for your needs.
+Explore haircuts, styling, colour, curls, texture, and
+treatment options.
 
 ### Button
 
-**Contact Us**
+**Explore Hair Services**
 
 ---
 
-## 3. Enquiry CTA
+## 3. Hair Colour CTA
 
 ### Headline
 
-Planning Something Special?
+Thinking About a New Colour?
 
 ### Supporting Copy
 
-Whether you're preparing for an event or your special day,
-enquire about our available beauty and bridal services.
+Explore balayage, global colour, and highlighting options
+based on your preferred look.
 
 ### Button
 
-**Make an Enquiry**
+**Explore Hair Colour**
 
 ---
 
-## 4. Visit CTA
+## 4. Beauty Services CTA
 
 ### Headline
 
-Make Time for Yourself
+Make Time for Beauty Care
 
 ### Supporting Copy
 
-Take a break from your routine and explore professional hair
-and beauty services at UrbanGlow Salon in Bangalore.
+Explore facials, waxing, manicures, and pedicures at
+Salon Nayana.
 
 ### Button
 
-**Visit UrbanGlow Salon**
+**Explore Beauty Services**
 
 ---
 
-## 5. Service-Specific CTA Variations
-
-### Haircut
-
-**Headline:** Ready for a Fresh Look?
-
-**Copy:** Refresh your style with a haircut tailored to your
-preferences.
-
-**Button:** Book a Haircut
-
----
-
-### Hair Styling
-
-**Headline:** Have an Event Coming Up?
-
-**Copy:** Get a polished hairstyle designed for your occasion.
-
-**Button:** Book Hair Styling
-
----
-
-### Hair Coloring
-
-**Headline:** Ready for a New Hair Color?
-
-**Copy:** Explore hair coloring options that match your style.
-
-**Button:** Ask About Hair Coloring
-
----
-
-### Facial
-
-**Headline:** Time for Some Self-Care?
-
-**Copy:** Take a moment for yourself with a relaxing facial
-experience.
-
-**Button:** Book a Facial
-
----
-
-### Manicure & Pedicure
-
-**Headline:** Give Your Hands and Feet Some Care
-
-**Copy:** Keep your hands and feet looking neat and refreshed.
-
-**Button:** Book Your Appointment
-
----
-
-### Bridal
-
-**Headline:** Planning Your Bridal Look?
-
-**Copy:** Start planning your beauty services for your special day.
-
-**Button:** Enquire About Bridal Services
-
----
-
-## 6. Final Website CTA
+## 5. Consultation CTA
 
 ### Headline
 
-Your Next Look Starts Here.
+Not Sure Which Service Is Right for You?
 
 ### Supporting Copy
 
-Explore our hair and beauty services and choose the experience
-that's right for you.
+Start with a conversation about your hair or beauty needs
+before choosing your service.
+
+### Button
+
+**Book a Consultation**
+
+---
+
+## 6. Visit CTA
+
+### Headline
+
+Visit Salon Nayana on Brigade Road
+
+### Supporting Copy
+
+Explore hair and beauty services at Salon Nayana in
+Bengaluru.
+
+### Button
+
+**Get Directions**
+
+---
+
+## Final CTA
+
+### Headline
+
+Your Hair, Your Choice.
+
+### Supporting Copy
+
+Explore your options, ask questions, and choose the service
+that fits your needs.
 
 ### Primary Button
 
-**Book Your Appointment**
+**Book an Appointment**
 
 ### Secondary Button
 
-**Contact Us**
+**Explore Services**
